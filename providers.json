@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-09-21",
+  "providers": [
+    {
+      "id": "anikoto",
+      "name": "Anikoto",
+      "version": "2.3",
+      "language": "en",
+      "enabled": true,
+      "has_mp4": false,
+      "has_dub": true,
+      "has_sub": true,
+      "cloudflare": false,
+      "config_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/anikoto/config.json",
+      "changelog_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/anikoto/CHANGELOG.md"
+    },
+    {
+      "id": "animepahe",
+      "name": "AnimePahe",
+      "version": "1.0",
+      "language": "en",
+      "enabled": true,
+      "has_mp4": true,
+      "has_dub": true,
+      "has_sub": true,
+      "cloudflare": true,
+      "config_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/animepahe/config.json",
+      "changelog_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/animepahe/CHANGELOG.md"
+    },
+    {
+      "id": "anizone",
+      "name": "AniZone",
+      "version": "1.0",
+      "language": "all",
+      "enabled": true,
+      "has_mp4": false,
+      "has_dub": true,
+      "has_sub": true,
+      "cloudflare": false,
+      "config_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/anizone/config.json",
+      "changelog_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/anizone/CHANGELOG.md"
+    },
+    {
+      "id": "subsplease",
+      "name": "Subsplease",
+      "version": "1.0",
+      "language": "all",
+      "enabled": true,
+      "has_mp4": false,
+      "has_dub": false,
+      "has_sub": true,
+      "cloudflare": false,
+      "config_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/subsplease/config.json",
+      "changelog_url": "https://raw.githubusercontent.com/ZenX-Soumyadeep/yugen-extensions/kotlin-repo/subsplease/CHANGELOG.md"
+    }
+  ]
+}

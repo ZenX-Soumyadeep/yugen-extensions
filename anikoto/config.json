@@ -1,0 +1,23 @@
+{
+  "provider_id": "anikoto",
+  "version": "2.3",
+  "updated": "2026-09-21",
+  "base_url": "https://anikoto.cz",
+  "vrf_keys": {
+    "exchange_key1": ["AP6GeR8H0lwUz1", "UAz8Gwl10P6ReH"],
+    "key1": "ItFKjuWokn4ZpB",
+    "key2": "fOyt97QWFB3",
+    "exchange_key2": ["1majSlPQd2M5", "da1l2jSmP5QM"],
+    "exchange_key3": ["CPYvHj09Au3", "0jHA9CPYu3v"],
+    "key3": "736y1uTJpBLUX"
+  },
+  "megaplay_aes": {
+    "key": "i?LMTAx0Q6,:}50U",
+    "iv": "W0;27ToaUpl_P%'c"
+  },
+  "megaplay_token_secret": "MpCdnT0k3n!9f2K#xQ7vL5mR8wN1pY4s",
+  "cdn_overrides": {
+    "fetch.nexabloom.top": "ncdn.imgnex.top"
+  },
+  "notes": "VRF keys as of 2026-09-21. Update when Anikoto rotates."
+}

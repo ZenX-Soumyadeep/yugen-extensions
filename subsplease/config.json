@@ -1,0 +1,8 @@
+{
+  "provider_id": "subsplease",
+  "version": "1.0",
+  "updated": "2026-09-21",
+  "base_url": "https://subsplease.org",
+  "api_timezone": "Asia/Tokyo",
+  "notes": "Public API. Timezone affects schedule — Asia/Tokyo is standard."
+}

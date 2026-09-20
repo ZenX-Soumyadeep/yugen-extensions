@@ -1,0 +1,15 @@
+{
+  "provider_id": "animepahe",
+  "version": "1.0",
+  "updated": "2026-09-21",
+  "base_url": "https://animepahe.ru",
+  "domain_fallbacks": [
+    "https://animepahe.ru",
+    "https://animepahe.pw",
+    "https://animepahe.com",
+    "https://animepahe.org"
+  ],
+  "kwik_base_url": "https://kwik.cx",
+  "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36",
+  "notes": "AnimePahe rotates domains. Try domain_fallbacks in order if base_url fails."
+}
